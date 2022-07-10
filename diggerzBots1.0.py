@@ -56,7 +56,7 @@ for i in range(len(COUNTRIESRELATIVE)):
 			if SIZE[0] is 640:
 				COUNTRIES[14][0] = COUNTRIES[14][0] + 5
 
-PATH = "/home/veni/Desktop/chromedriver"
+PATH = "/chromedriver"
 f = open('diggerz.names', 'r')
 NAMES = f.read().split('\n')
 NAMESLENGTH = len(NAMES)
