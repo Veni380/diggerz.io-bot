@@ -1,4 +1,4 @@
-# diggerz.io-bots
+# diggerz.io-bot
 Automated grinding, using Selenium WebDriver in order to dig out items, that can later be collected.
 
 It will open the browser game diggerz.io in a chrome borwser.
