@@ -12,3 +12,4 @@ After being done it will refresh the browser and repeat.
 It will also let you know in the termnial what it is currently doing.
 If a disconnection occurs, the bot can be restarted by using the command "restart" or just waiting untill the loop repeasts by itself.
 You will also need to install Selenium Webdriver to use this software.
+demonstration: https://www.youtube.com/watch?v=AeWTVc7rG6k
