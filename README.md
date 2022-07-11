@@ -2,7 +2,7 @@
 Automated grinding, using Selenium WebDriver in order to dig out items, that can later be collected.
 
 The code is written in python 3(which you need to install, if you want to use this software).
-It will open the browser game diggerz.io, using Chrome Webdriver(which you need to install, if you want to use this software).
+It will open the browser game diggerz.io, using Chromedriver(which you need to install, if you want to use this software).
 Responsive to commands in the terminal such as: pause, unpause, restart, trade.
 The bot will pick a random username out of a large username-collection from another file.
 It will also set its flag to a random one out of some popular ones
